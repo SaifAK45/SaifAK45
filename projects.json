@@ -1,0 +1,57 @@
+[
+  {
+    "name": "IMDB Sentiment Analysis",
+    "repo": "SaifAK45/IMDB-Sentiment-Analysis-RNN",
+    "logo": "imdb.jpg",
+    "description": "Movie review sentiment classification using Simple RNN",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "Simple RNN",
+      "NLP",
+      "Streamlit"
+    ]
+  },
+  {
+    "name": "Shakespeare NLP",
+    "repo": "SaifAK45/shakespeare-next-word-prediction-LSTM-GRU",
+    "logo": "shakespeare.jpeg",
+    "description": "Next-word prediction using LSTM and GRU",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "LSTM",
+      "GRU",
+      "NLP",
+      "Streamlit"
+    ]
+  },
+  {
+    "name": "Customer Churn Prediction",
+    "repo": "SaifAK45/customer-churn-prediction-ann",
+    "logo": "churn.jpeg",
+    "description": "Bank customer churn prediction using Artificial Neural Network",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "ANN",
+      "Scikit-learn",
+      "Streamlit"
+    ]
+  },
+  {
+    "name": "Student Performance",
+    "repo": "SaifAK45/STUDENET_PERFERMANCE_ML",
+    "logo": "student.png",
+    "description": "Student math score prediction using machine learning",
+    "tags": [
+      "Python",
+      "Scikit-learn",
+      "XGBoost",
+      "CatBoost",
+      "Streamlit"
+    ]
+  }
+]
