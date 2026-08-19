@@ -23,3 +23,77 @@
 </a>
 
 </div>
+
+<!-- ==================== PROJECTS ==================== -->
+
+<h2 align="center">PROJECTS</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 01 / IMDB SENTIMENT ANALYSIS
+
+**Movie Review Sentiment Classification**
+
+`Python` · `TensorFlow` · `Keras` · `Simple RNN` · `NLP` · `Streamlit`
+
+Embedding → SimpleRNN → Dense + Sigmoid
+
+Predicts movie-review sentiment as **Positive / Negative**.
+
+<a href="https://github.com/SaifAK45/IMDB-Sentiment-Analysis-RNN">→ View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 / SHAKESPEARE NLP
+
+**Next-Word Prediction — LSTM + GRU**
+
+`Python` · `TensorFlow` · `LSTM` · `GRU` · `NLP` · `Streamlit`
+
+Tokenization → N-Grams → Embedding → LSTM / GRU
+
+Predicts the next word from Shakespeare's *Hamlet*.
+
+<a href="https://github.com/SaifAK45/shakespeare-next-word-prediction-LSTM-GRU">→ View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 / CUSTOMER CHURN
+
+**Artificial Neural Network**
+
+`Python` · `TensorFlow` · `Keras` · `ANN` · `Scikit-learn` · `Streamlit`
+
+Encoding → Scaling → ANN → Churn Probability
+
+Predicts whether a bank customer is likely to churn.
+
+<a href="https://github.com/SaifAK45/customer-churn-prediction-ann">→ View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 / STUDENT PERFORMANCE
+
+**Machine Learning Regression System**
+
+`Python` · `Scikit-learn` · `XGBoost` · `CatBoost` · `Streamlit`
+
+Data Pipeline → Feature Engineering → Model Selection
+
+Predicts **Math Score + Student Performance**.
+
+<a href="https://github.com/SaifAK45/STUDENET_PERFERMANCE_ML">→ View Repository</a>
+
+</td>
+</tr>
+</table>
