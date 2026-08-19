@@ -50,8 +50,6 @@
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
-<br/>
-
 <div align="center">
 
 <picture>
