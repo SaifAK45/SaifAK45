@@ -104,3 +104,48 @@
 </div>
 
 <!-- ===== END PROJECTS ===== -->
+
+<!-- ===== SOCIAL LINKS ===== -->
+
+<br/>
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saif-ali-khan-ai">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/__.saif__khan_10/">
+  <img
+    src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
+    alt="Instagram"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/saif.ali.khan.497663">
+  <img
+    src="https://img.shields.io/badge/FACEBOOK-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F"
+    alt="Facebook"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:saifalikhan850@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<!-- ===== END SOCIAL LINKS ===== -->
