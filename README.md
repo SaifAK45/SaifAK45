@@ -39,6 +39,36 @@
 
 </div>
 
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SaifAK45/SaifAK45/output/snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SaifAK45/SaifAK45/output/snake-light.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/SaifAK45/SaifAK45/output/snake-dark.svg"
+    alt="Saif Ali Khan GitHub Contribution Snake"
+    width="100%"
+  />
+
+</picture>
+
+</div>
+
+<!-- ===== END CONTRIBUTION SNAKE ===== -->
+
 <!-- ===== PROJECTS ===== -->
 
 <br/>
