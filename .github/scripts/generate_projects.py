@@ -720,10 +720,10 @@ def card(project, x, y, index):
             + 14
         )
 
-        # Don't allow pills to reach the donut area
+        # Keep technology pills away from the dedicated language area
         if (
             tag_x + tag_width
-            > CARD_W - 145
+            > CARD_W - 155
         ):
             break
 
@@ -796,9 +796,10 @@ def card(project, x, y, index):
 
     if languages:
 
-        cx = CARD_W - 58
-        cy = CARD_H // 2 + 6
-        radius = 27
+        # Dedicated language panel on the right
+        cx = CARD_W - 55
+        cy = 73
+        radius = 23
 
         segments, legend = donut_segments(
             languages,
@@ -838,10 +839,12 @@ def card(project, x, y, index):
                 f'</text>'
             )
 
-        # Language legend
-        dot_x = cx - radius - 92
-        text_x = dot_x + 9
-        legend_y = cy - 22
+        # --------------------------------------------------------
+        # Compact language legend
+        # --------------------------------------------------------
+
+        legend_x = CARD_W - 104
+        legend_y = 116
 
         for (
             language,
@@ -849,26 +852,32 @@ def card(project, x, y, index):
             color,
         ) in legend[:3]:
 
+            # Keep long language names readable
+            label = str(language)
+
+            if len(label) > 10:
+                label = label[:9] + "…"
+
             add(
                 f'<circle '
-                f'cx="{dot_x}" '
-                f'cy="{legend_y}" '
-                f'r="3.5" '
+                f'cx="{legend_x}" '
+                f'cy="{legend_y - 3}" '
+                f'r="3" '
                 f'fill="{color}"/>'
             )
 
             add(
                 f'<text '
-                f'x="{text_x}" '
-                f'y="{legend_y + 4}" '
-                f'font-size="10" '
+                f'x="{legend_x + 8}" '
+                f'y="{legend_y}" '
+                f'font-size="8.5" '
                 f'fill="{MUTED}">'
-                f'{esc(language)} '
+                f'{esc(label)} '
                 f'{fraction * 100:.0f}%'
                 f'</text>'
             )
 
-            legend_y += 18
+            legend_y += 13
 
     # Close card group + link
     add("</g>")
