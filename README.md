@@ -29,6 +29,8 @@
 
 
 
+<!-- ===== GITHUB STATS + LANGUAGES ===== -->
+
 <div align="center">
 
 <a href="https://github.com/SaifAK45">
@@ -40,12 +42,14 @@
 </a><a href="https://github.com/SaifAK45">
 <img
   width="49%"
-  src="https://github-readme-stats-alpha-beryl-15.vercel.app/api/top-langs/?username=SaifAK45&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+  src="https://github-readme-stats-alpha-beryl-15.vercel.app/api/top-langs/?username=SaifAK45&layout=normal&langs_count=6&hide=jupyter%20notebook&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
   alt="Saif Ali Khan Most Used Languages"
 />
 </a>
 
 </div>
+
+<!-- ===== END GITHUB STATS + LANGUAGES ===== -->
 
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
