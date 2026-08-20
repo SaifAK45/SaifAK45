@@ -16,7 +16,7 @@
 
 <img
   width="100%"
-  src="https://streak-stats.demolab.com/?user=SaifAK45&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180&card_height=195&short_numbers=true&type=svg"
+  src="https://streak-stats.demolab.com/?user=SaifAK45&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180&card_height=195&short_numbers=true"
   alt="Saif Ali Khan GitHub Streak"
 />
 
