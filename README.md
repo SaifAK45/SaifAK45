@@ -10,12 +10,15 @@
 
 <!-- ===== GITHUB STREAK ===== -->
 
+<div align="center">
+
 <img
-  width="100%"
-  height="195"
   src="./profile/streak.svg"
+  width="100%"
   alt="Saif Ali Khan GitHub Streak"
 />
+
+</div>
 
 <!-- ===== END GITHUB STREAK ===== -->
 
