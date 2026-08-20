@@ -10,17 +10,12 @@
 
 <!-- ===== GITHUB STREAK ===== -->
 
-<div align="center">
-
-<a href="https://github.com/SaifAK45">
 <img
   width="100%"
+  height="195"
   src="./profile/streak.svg"
   alt="Saif Ali Khan GitHub Streak"
 />
-</a>
-
-</div>
 
 <!-- ===== END GITHUB STREAK ===== -->
 
